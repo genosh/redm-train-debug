@@ -8,8 +8,8 @@ local mode = "spawn"
 
 CreateThread(function()
     --To edit for specific junction
-    local trainStartCoord = vector3(627.8143, 689.8227, 115.1818) --Train spawn location (obtained by logs with testTrain = false)
-    local expectedIndexResult = 2  --traintrack index expected to determinate id train has changed of way (obtained by logs with testTrain = false)
+    local trainStartCoord = vector3(627.8143, 689.8227, 115.1818) --Train spawn location (obtained by logs with mode = log)
+    local expectedIndexResult = 2  --traintrack index expected to determinate id train has changed of way (obtained by logs with mode = log)
     local dirChange = 1  -- train direction
 
     --Don't touch if you don't know
