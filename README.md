@@ -16,4 +16,4 @@ PAY ATTENTION! This is a debug script, so please use it in solo session.
 
 
 ## GitHub
-- https://github.com/???
+- https://github.com/genosh/redm-train-debug/
