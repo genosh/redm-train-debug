@@ -10,8 +10,8 @@ PAY ATTENTION! This is a debug script, so please use it in solo session.
 - Spawn train on the near tracks
 
 ## Installation
-- Add `train-debug` folder to your resources folder
-- Add `ensure train-debug` to your `resources.cfg`
+- Add `redm-train-debug` folder to your resources folder
+- Add `ensure redm-train-debug` to your `resources.cfg`
 - Restart resource
 
 
