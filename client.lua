@@ -29,7 +29,7 @@ CreateThread(function()
     --Reset junction. Set all junctions to false (I guess is initial position for all?)
     for _, trainTrack in pairs(trackModels) do
         for i=0, 30, 1 do
-            --SetTrainTrackJunctionSwitch(joaat(trainTrack), i, false)
+            SetTrainTrackJunctionSwitch(joaat(trainTrack), i, false)
         end
     end
 
